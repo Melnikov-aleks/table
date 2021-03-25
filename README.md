@@ -1,4 +1,6 @@
-# table
+# table test challenge
+
+Vuetify подключил для date-picker
 
 ## Project setup
 ```
